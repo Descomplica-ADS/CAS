@@ -1,0 +1,8 @@
+# .gitignore
+
+# My Configuration
+.vscode
+
+# misc
+.DS_Store
+*.pem
