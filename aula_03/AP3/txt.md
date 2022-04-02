@@ -21,8 +21,8 @@ Algoritmo "AP3"
 // Disciplina  : [Linguagem e Lógica de Programação (criacao-de-aplicacoes-e-sistemas)]
 // Professor   : Franklin Portela Correia
 // Descrição   : O programa calcula a média
-// Autor(a)    : Matheus Vidigal
-// Data atual  : 02/04/2022
+// Autor(a)    : ...
+// Data atual  : __/04/2022
 Var
 // Seção de Declarações das variáveis
    n1: inteiro
@@ -43,11 +43,8 @@ Inicio
    sum_result <- n1 + n2 + n3 + n4 + n5
    average_result <- sum_result / 5
 
-   Escreval(" - - - - - Soma e Média - - - - -")
-   Escreval("| Resultado da soma:", sum_result, "          |")
-   Escreval("| Resultado da média:", average_result, "        |")
-   Escreval(" - - - - - - - - - - - - - - - - ")
-
+   Escreval("Resultado da soma:", sum_result)
+   Escreval("Resultado da média:", average_result)
 
 Fimalgoritmo
 ```
