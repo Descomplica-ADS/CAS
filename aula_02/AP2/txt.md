@@ -29,4 +29,4 @@ Inicio
 Fimalgoritmo
 ```
 
-![IMAGE](../Images/exemple.png)
+![IMAGE](../images/exemple.png)
