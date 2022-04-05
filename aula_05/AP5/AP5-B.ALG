@@ -1,41 +1,41 @@
 Algoritmo "AP5-B"
-// Disciplina  : [Linguagem e Lógica de Programação (criacao-de-aplicacoes-e-sistemas)]
+// Disciplina  : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o (criacao-de-aplicacoes-e-sistemas)]
 // Professor   : Franklin Portela Correia
-// Descrição   : O programa calcula o dobro ou triplo do número
+// Descriï¿½ï¿½o   : O programa calcula o dobro ou triplo do nï¿½mero
 // Autor(a)    : Matheus Vidigal
 // Data atual  : 04/04/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    n1: real
    op: inteiro
    result: real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval(" _____________________ ")
    Escreval("|                     |")
-   Escreval("| Escolha seu cálculo |")
+   Escreval("| Escolha seu cï¿½lculo |")
    Escreval("|_____________________|")
    Escreval("")
-   Escreval("Digite seu número para o cálculo")
+   Escreval("Digite seu nï¿½mero para o cï¿½lculo")
    Leia(n1)
-   Escreval("Opções:")
+   Escreval("Opï¿½ï¿½es:")
    Escreval("( 1 ) - Calcular o dobro de:", n1)
    Escreval("( 2 ) - Calcular o triplo de:", n1)
    Leia(op)
 
-// Desisão
+// Decisï¿½o
    Escolha (op)
       Caso 1
          result <- n1 * 2
          Escreval("")
          Escreval(" RESULTADO - - - - - -")
-         Escreval("| O dobro de", n1, " é:", result, " |")
+         Escreval("| O dobro de", n1, " ï¿½:", result, " |")
          Escreval(" - - - - - - - - - - -")
       Caso 2
          result <- n1 * 3
          Escreval("")
          Escreval(" RESULTADO - - - - - -")
-         Escreval("| O triplo de", n1, " é:", result, " |")
+         Escreval("| O triplo de", n1, " ï¿½:", result, " |")
          Escreval(" - - - - - - - - - - -")
    FimEscolha
 Fimalgoritmo

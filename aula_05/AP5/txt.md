@@ -4,10 +4,10 @@
 *comandos usados:*
 ```java
     Escreval("Digite o 1° número")
-    leia(n1)
-    se (n1 < n2) então
+    Leia(n1)
+    Se (n1 < n2) Então
         Escreval("Número MAIOR:", n2)
-    senão
+    Senão
         Escreval("Número MAIOR:", n1)
         Escreval("Número MENOR:", n2)
 ```
@@ -32,23 +32,23 @@ Inicio
     Escreval("|____________________________|")
     Escreval("")
     Escreval("Digite o 1° número")
-    leia(n1)
+    Leia(n1)
     Escreval("Digite o 2° número")
-    leia(n2)
+    Leia(n2)
 
-// Desisão
-    se (n1 < n2) então
+// Decisão
+    Se (n1 < n2) Então
         Escreval("")
         Escreval(" RESULTADO - - - - ")
         Escreval("| Número MAIOR:", n2, " |")
         Escreval(" - - - - - - - - - ")
-    senão
+    Senão
         Escreval("")
         Escreval(" RESULTADO - - - - ")
         Escreval("| Número MAIOR:", n1, " |")
         Escreval("| Número MENOR:", n2, " |")
         Escreval(" - - - - - - - - - ")
-    fimse
+    FimSe
 Fimalgoritmo
 ```
 
@@ -95,7 +95,7 @@ Inicio
     Escreval("( 2 ) - Calcular o triplo de:", n1)
     Leia(op)
 
-// Desisão
+// Decisão
     Escolha (op)
         Caso 1
             result <- n1 * 2

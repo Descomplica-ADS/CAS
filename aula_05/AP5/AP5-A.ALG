@@ -1,36 +1,36 @@
 Algoritmo "AP5-A"
-// Disciplina  : [Linguagem e Lógica de Programação (criacao-de-aplicacoes-e-sistemas)]
+// Disciplina  : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o (criacao-de-aplicacoes-e-sistemas)]
 // Professor   : Franklin Portela Correia
-// Descrição   : O programa verifica o maior número
+// Descriï¿½ï¿½o   : O programa verifica o maior nï¿½mero
 // Autor(a)    : Matheus Vidigal
 // Data atual  : 04/04/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    n1: real
    n2: real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval(" ____________________________ ")
    Escreval("|                            |")
-   Escreval("| Qual o maior/menor número? |")
+   Escreval("| Qual o maior/menor nï¿½mero? |")
    Escreval("|____________________________|")
    Escreval("")
-   Escreval("Digite o 1° número")
-   leia(n1)
-   Escreval("Digite o 2° número")
-   leia(n2)
+   Escreval("Digite o 1ï¿½ nï¿½mero")
+   Leia(n1)
+   Escreval("Digite o 2ï¿½ nï¿½mero")
+   Leia(n2)
 
-// Desisão
-   se (n1 < n2) então
+// Decisï¿½o
+   Se (n1 < n2) Entï¿½o
       Escreval("")
       Escreval(" RESULTADO - - - - ")
-      Escreval("| Número MAIOR:", n2, " |")
+      Escreval("| Nï¿½mero MAIOR:", n2, " |")
       Escreval(" - - - - - - - - - ")
-   senão
+   Senï¿½o
       Escreval("")
       Escreval(" RESULTADO - - - - ")
-      Escreval("| Número MAIOR:", n1, " |")
-      Escreval("| Número MENOR:", n2, " |")
+      Escreval("| Nï¿½mero MAIOR:", n1, " |")
+      Escreval("| Nï¿½mero MENOR:", n2, " |")
       Escreval(" - - - - - - - - - ")
-   fimse
+   FimSe
 Fimalgoritmo
