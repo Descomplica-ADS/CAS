@@ -48,7 +48,7 @@ $ cd aula_01/AP1
 ```
 
 ## Contribuição 💭
-Para construir esses projetos tivemos a ajuda do **Profº Franklin Portela Correia** da Faculdade Descomplica que disponibilizou video aulas e a grande ajuda desta turma que se formou no *Discord*.
+Para construir esses projetos tivemos a ajuda do **Profº Franklin Portela Correia** e da **Profª Lucy Mari Tabuti** da Faculdade Descomplica que disponibilizou video aulas e a grande ajuda desta turma que se formou no *Discord*.
 Quer [contribuir](./CONTRIBUTING) para algum projeto? Então envie seu Pull Request no repositório do projeto.
 
 ## Licença ⚖️
