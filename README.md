@@ -27,16 +27,22 @@ Projetos desenvolvidos durante as aulas do segundo trimestre de Análise e Desen
 ## Tecnologias 🚀
 Esses projetos foram desenvolvidos com as seguintes tecnologias:
 - [VisuAlg](https://visualg3.com.br)
+- [Portugol](https://www.google.com/search?q=Portugol)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [Java](https://www.java.com/pt-BR/)
 
 ## Screenshots 🚧
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
-    <img height="200px" src="./.github/images/aula01.png">
+    <img height="200px" src="./.github/images/aula08.png">
+    <img height="200px" src="./.github/images/aula12.png">
+    <img height="200px" src="./.github/images/aula15.png">
+    <img height="200px" src="./.github/images/aula16.png">
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
 ## Rodando os projetos 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-Navegue entre as pastas das aulas e veja o readme do projeto.
+Navegue entre as pastas das aulas e veja o readme de cada um.
 
 #### Na sua maquina:
 ```bash
@@ -48,8 +54,8 @@ $ cd aula_01/AP1
 ```
 
 ## Contribuição 💭
-Para construir esses projetos tivemos a ajuda do **Profº Franklin Portela Correia** e da **Profª Lucy Mari Tabuti** da Faculdade Descomplica que disponibilizou video aulas e a grande ajuda desta turma que se formou no *Discord*.
-Quer [contribuir](./CONTRIBUTING) para algum projeto? Então envie seu Pull Request no repositório do projeto.
+Para construir esses projetos tivemos a ajuda do **Profº Franklin Portela Correia** e da **Profª Lucy Mari Tabuti** da Faculdade Descomplica que disponibilizou vídeo aulas e a grande ajuda desta turma que se formou no *Discord*.<br>
+Quer [contribuir](./CONTRIBUTING) para esse projeto? Então envie seu Pull Request.
 
 ## Licença ⚖️
 Estes projetos estão sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/Descomplica-ADS/CAS/blob/main/LICENSE) para mais detalhes.
